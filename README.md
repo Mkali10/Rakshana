@@ -58,8 +58,11 @@ python backend/app.py
 
 Access in browser:
 👉 http://localhost:5000
+
 Login credentials:
+
 Username: admin
+
 Password: ChangeThisStrongPassword!
 
 
